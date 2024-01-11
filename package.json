@@ -37,7 +37,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://hl-git.ru/ascmedia-development/bvi.fix"
+    "url": "https://git.ascmedia.ru/ascmedia-development/bvi.fix.git"
   },
   "bugs": {
     "url": "https://github.com/veks/button-visually-impaired-javascript/issues"
